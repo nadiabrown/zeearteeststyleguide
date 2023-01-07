@@ -3,3 +3,10 @@
     font-size: 36px;
     text-align: center;
 }
+
+.h2 {
+    font-family: 'DM Serif Display', serif;
+    font-size: 26px;
+    text-align: center;
+    padding-top: 20px;
+}
