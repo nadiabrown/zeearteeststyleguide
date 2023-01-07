@@ -10,3 +10,39 @@
     text-align: center;
     padding-top: 20px;
 }
+
+.square {
+    height: 100px;
+    width: 100px;
+    margin: 5px 15px;
+    display: inline-block;
+}
+
+.color-scheme {
+    text-align: center;
+}
+
+.square.black {
+    background-color: #090B0C;
+    border: 1px solid #F2F0E0;
+}
+
+.square.green {
+    background-color: #839788;
+    border: 1px solid #F2F0E0;
+}
+
+.square.white {
+    background-color: #FFFCFF;
+    border: 1px solid #F2F0E0;
+}
+
+.square.crimson {
+    background-color: #D72638;
+    border: 1px solid #F2F0E0;
+}
+
+.square.orange {
+    background-color: #FF9F1C;
+    border: 1px solid #F2F0E0;
+}
