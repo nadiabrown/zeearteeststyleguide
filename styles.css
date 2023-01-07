@@ -51,5 +51,19 @@
     display: inline-block;
     width: 101px;
     margin: 0 15px;
-    font-family: 'DM Sans', sans-serif;;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.demo-heading {
+    font-family: 'DM Serif Display', serif;
+    font-size: 26px;
+}
+
+.demo-paragraph {
+    font-family: 'DM Sans', sans-serif;
+    width: 750px;
+}
+
+.demo-text {
+    margin-left: 392px;
 }
