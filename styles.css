@@ -46,3 +46,10 @@
     background-color: #FF9F1C;
     border: 1px solid #F2F0E0;
 }
+
+.hex-code {
+    display: inline-block;
+    width: 101px;
+    margin: 0 15px;
+    font-family: 'DM Sans', sans-serif;;
+}
