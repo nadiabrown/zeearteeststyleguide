@@ -67,3 +67,27 @@
 .demo-text {
     margin-left: 392px;
 }
+
+.style-group {
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+}
+
+.text-styles {
+    text-align: center;
+}
+
+p {
+    font-family: 'DM Sans', sans-serif;
+}
+
+.style-heading {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.style-text {
+    font-weight: 100;
+}
