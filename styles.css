@@ -12,8 +12,8 @@
 }
 
 .square {
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
     margin: 5px 15px;
     display: inline-block;
 }
@@ -49,7 +49,7 @@
 
 .hex-code {
     display: inline-block;
-    width: 101px;
+    width: 151px;
     margin: 0 15px;
     font-family: 'DM Sans', sans-serif;
 }
