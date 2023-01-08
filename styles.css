@@ -57,7 +57,7 @@
 
 .demo-heading {
     font-family: 'DM Serif Display', serif;
-    font-size: 26px;
+    font-size: 20px;
 }
 
 .demo-paragraph {
@@ -65,8 +65,13 @@
     width: 750px;
 }
 
+.fonts {
+    text-align: center;
+}
+
 .demo-text {
-    margin-left: 392px;
+    display: inline-block;
+    text-align: center;
 }
 
 .style-group {
